@@ -130,7 +130,3 @@ El proyecto debe contener los siguientes archivos y carpetas:
 3. **Conexiones Rápidas:** La mayoría de las provincias tienen velocidades de descarga aceptables, aunque algunas están por debajo del estándar deseado.
 4. **Ingresos Variables:** Los ingresos por servicios de internet han mostrado un crecimiento inconsistente en los últimos años.
 
----
-
-## **Contacto**
-Si tienes preguntas o deseas contribuir, no dudes en contactarnos.
